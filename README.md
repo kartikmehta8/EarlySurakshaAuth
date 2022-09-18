@@ -1,70 +1,44 @@
-# Getting Started with Create React App
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/77505989/190895010-cfd43b08-7004-4f98-92ab-cc1445312264.png" alt="BANNER" />
+</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Authentication System
 
-## Available Scripts
+Authentication systems are security measures put in place to secure data and systems by requiring additional input beyond username and password for users to access a system. By providing this additional input, authentication systems help ensure that **users are who they say they are**.
 
-In the project directory, you can run:
+### What is web3 Auth?
 
-### `npm start`
+Web3 authentication plugin allows Secure Login with a **secure decentralized system into your website** using blockchain wallets such as MetaMask, Trust Wallet, Wallet Connect QR code, Phantom, Pera, Ledger, and Trezor or any EVM Compatible Wallet and restricts access to content based on non-fungible tokens (NFTs).
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<h2 align="center">What is Arcana?</h2>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+**Arcana Network** has built a storage and privacy stack for Ethereum DApps and works with developers across crypto, NFTs, DeFi, etc. as well as Web 2 products in fintech, healthcare, SaaS, etc to bring privacy and security to data.
 
-### `npm test`
+### Arcana Auth
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Provide frictionless onboarding for web3 users using social auth or passwordless logins. Arcana handles all aspects of key management from key pair generation to secure non-custodial handling through the arcana wallet so that your users don't have to.
 
-### `npm run build`
+<br />
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<p align="center">
+<img src="https://user-images.githubusercontent.com/77505989/190895624-52fa6677-be16-4b69-8f0f-b9b99badcc01.jpeg" alt="ARCANA" />
+<p align="center">Passwordless Sign In using Email & Google Authentication using Arcana</p>
+</p>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<br />
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<p align="center">
+<img src="https://user-images.githubusercontent.com/77505989/190895912-5a89a9b7-0045-4c2b-bc1f-73d047898605.jpeg" alt="ARCANA" />
+<p align="center">Authentication Logged In.</p>
+</p>
 
-### `npm run eject`
+### Technology Stack
+- **ReactJS -** For building frontend..
+- **Tailwind CSS -** For Rapid Prototyping & Designing.
+- **Arcana -** For User Authentication.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Contributors
+- [Shivam Kundra](https://github.com/shivamkundra)
+- [Sarthak Jain](https://github.com/Sarthakjain714)
+- [Suraj Shukla](https://github.com/098suraj)
+- [Kartik Mehta](https://github.com/kartikmehta8)
